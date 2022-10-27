@@ -1,7 +1,7 @@
 body {
     font-family: 'Cinzel', serif;
     font-family: 'Playfair Display', serif;
-    
+
     background-image: url("../images/bg.jpg");
 
 }
@@ -21,50 +21,54 @@ nav {
     margin-top: 2rem;
     font-size: xx-large;
 }
-.nerotwo{
+
+.nerotwo {
     color: whitesmoke;
     font-size: 30px;
-   /* From https://css.glass */
-background: rgba(255, 255, 255, 0.2);
-border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(5px);
--webkit-backdrop-filter: blur(5px);
-border: 1px solid rgba(255, 255, 255, 0.3);
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
     width: fit-content;
     padding: 30px;
     padding-left: 60px;
     padding-right: 60px;
-    margin-top: 2rem;   
+    margin-top: 2rem;
 }
 
-.col{
+.col {
     border: 2px solid #ffffff;
 }
-button:hover{
+
+button:hover {
     background-color: gray;
 }
 
-.hoverme:hover{
+.hoverme:hover {
     color: whitesmoke !important;
 }
 
-#CityName{
+#CityName {
     border-bottom: solid 2px whitesmoke;
 }
 
-.links{
+.links {
     text-decoration: none;
     font-size: 36px;
-    color:#bebebe;
+    color: #bebebe;
     padding: 2rem;
 }
-.links:hover{
+
+.links:hover {
     color: whitesmoke;
 }
-.main{
+
+.main {
     width: fit-content;
-     padding: 100px;
+    padding: 100px;
     margin-top: 3rem;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 16px;
@@ -73,26 +77,29 @@ button:hover{
     -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
-.glass{
+
+.glass {
     width: fit-content;
     padding: 10px;
     background: rgba(255, 255, 255, 0.2);
-border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(5px);
--webkit-backdrop-filter: blur(5px);
-border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
-.icons{
+
+.icons {
     font-size: 36px;
     width: fit-content;
-     padding: 2rem;
-     text-decoration: none;
-     color: #bebebe;
-     
- }
- button{
-  
+    padding: 2rem;
+    text-decoration: none;
+    color: #bebebe;
+
+}
+
+button {
+
     margin-top: 2rem;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 16px;
@@ -104,9 +111,10 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 1rem;
 
 
-    
-    
+
+
 }
-.onpage{
+
+.onpage {
     color: whitesmoke !important;
 }
