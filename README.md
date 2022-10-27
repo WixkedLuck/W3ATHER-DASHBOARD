@@ -31,6 +31,6 @@ The purpose of this project is to make a functional webpage that uses server-sid
 ![Challange6-WeatherAPI](./public/images/landingpage.PNG)
 ![Challange6-Weather](./public/images/weathertrial.PNG)
 # Deployed Site 
-
+https://wixkedluck.github.io/W3ATHER-DASHBOARD/
 # Deployed Site (orignal version)
 https://wixkedluck.github.io/Weather-Dashboard/
