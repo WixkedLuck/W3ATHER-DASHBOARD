@@ -28,7 +28,9 @@ Clone the repository on GitHub then open Git on your local machine. First find a
 The purpose of this project is to make a functional webpage that uses server-side APIs to retrive data based off of requests made to a url. With the data retrived, we are able to display a weather forcast for a city. 
 
 
-![Challange6-WeatherAPI](./images/Weather-Dash.PNG)
-
+![Challange6-WeatherAPI](./assets/images/landingpage.PNG)
+![Challange6-Weather](./assets/images/weathertrial.PNG)
 # Deployed Site 
+
+# Deployed Site (orignal version)
 https://wixkedluck.github.io/Weather-Dashboard/
