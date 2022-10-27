@@ -1,0 +1,112 @@
+body {
+    font-family: 'Cinzel', serif;
+    font-family: 'Playfair Display', serif;
+    
+    background-image: url("../images/bg.jpg");
+
+}
+
+nav {
+    font-size: 24px;
+    background-color: darkgrey;
+}
+
+.nero {
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: inset 20px 20px 60px #bebebe,
+        inset -20px -20px 60px #ffffff;
+    width: fit-content;
+    padding: 30px;
+    margin-top: 2rem;
+    font-size: xx-large;
+}
+.nerotwo{
+    color: whitesmoke;
+    font-size: 30px;
+   /* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+    width: fit-content;
+    padding: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 2rem;   
+}
+
+.col{
+    border: 2px solid #ffffff;
+}
+button:hover{
+    background-color: gray;
+}
+
+.hoverme:hover{
+    color: whitesmoke !important;
+}
+
+#CityName{
+    border-bottom: solid 2px whitesmoke;
+}
+
+.links{
+    text-decoration: none;
+    font-size: 36px;
+    color:#bebebe;
+    padding: 2rem;
+}
+.links:hover{
+    color: whitesmoke;
+}
+.main{
+    width: fit-content;
+     padding: 100px;
+    margin-top: 3rem;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.glass{
+    width: fit-content;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.icons{
+    font-size: 36px;
+    width: fit-content;
+     padding: 2rem;
+     text-decoration: none;
+     color: #bebebe;
+     
+ }
+ button{
+  
+    margin-top: 2rem;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: 24px;
+    padding: 1rem;
+
+
+    
+    
+}
+.onpage{
+    color: whitesmoke !important;
+}
