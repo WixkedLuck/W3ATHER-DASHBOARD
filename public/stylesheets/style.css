@@ -118,3 +118,12 @@ button {
 .onpage {
     color: whitesmoke !important;
 }
+
+@media screen and (max-width: 980px) {
+  input{
+    font-size: 20px;
+  }
+  button{
+    font-size: 14px;
+  }
+}
